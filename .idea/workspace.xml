@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="580b54d7-a7c3-460e-9246-990f33c3055e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/appiumTasks" beforeDir="false" afterPath="$PROJECT_DIR$/appiumTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumTasks/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/appiumTasks/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumTasks/src/test/java/ru/netology/calculator/MobileObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/appiumTasks/src/test/java/ru/netology/calculator/MobileObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumTasks/src/test/java/ru/netology/calculator/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/appiumTasks/src/test/java/ru/netology/calculator/SampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumTasks/src/test/java/ru/netology/uiautomator/ChangeTextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/appiumTasks/src/test/java/ru/netology/uiautomator/ChangeTextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appiumTasks/src/test/java/ru/netology/uiautomator/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/appiumTasks/src/test/java/ru/netology/uiautomator/Locators.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/appiumTasks" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2zpat5AxyMaJZf1lLIbcRFawBDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/007/Desktop/Tasks/mqa-homeworks/2.4 Appium/calculator-appium-tests",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Debugger"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580b54d7-a7c3-460e-9246-990f33c3055e" name="Changes" comment="" />
+      <created>1752430679592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752430679592</updated>
+    </task>
+    <servers />
+  </component>
+</project>
